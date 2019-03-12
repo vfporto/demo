@@ -1,8 +1,10 @@
 {
   "usuario": [
-    { "id": 1, "nome": "Fabricio" , "login": "fabricio", "senha": "1234" },
-    { "id": 2, "nome": "Fernando" , "login": "fernando", "senha": "1234" },
-    { "id": 3, "nome": "Jefferson" , "login": "jefferson", "senha": "1234" }
+    { "id": 1, "nome": "Fabricio" , "login": "fabricio", "login": "fabricio@fabricio.com","senha": "1234" },
+    { "id": 2, "nome": "Fernando" , "login": "fernando", "login": "fernando@fernando.com","senha": "1234" },
+    { "id": 3, "nome": "Jefferson" , "login": "jefferson", "login": "jefferson@jefferson.com", "senha": "1234"},
+    { "id": 4, "nome": "empregado" , "login": "empregado", "login": "empregado@empregado.com", "senha": "1234"},
+    { "id": 5, "nome": "gerente" , "login": "gerente", "login": "gerente@gerente.com", "senha": "1234"}
   ],
   "perfil": [
     { "id": 1, "descricao": "administrador" },
